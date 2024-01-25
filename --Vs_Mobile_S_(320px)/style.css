@@ -1,0 +1,280 @@
+
+
+
+p{
+    margin: 0;
+    width: 100%;
+    font-size: 16px;
+}   
+
+.main_Div_Container{
+    width: 100%;
+}
+
+.pr_Sct_Block_Div{
+    width: 20%;
+    height: 75px; 
+    margin: 0 42% 0 42%;
+    background:green;
+}
+
+.Block_Directeur{
+    text-align: center; 
+    text-transform: uppercase; 
+    margin: 0; 
+    padding: 28.3px 0 ; 
+    width: 100%;
+}
+
+.container_Div_2eme_Sct{
+    display: flex;
+    align-items: center;
+}
+
+.div_Vertical_2eme_Sct{
+    width: 0.5%; 
+    height: 100px; 
+    margin: 0 0 0 52%; 
+    background: black;
+}
+
+.div_Horizontal_2eme_Sct{
+    width: 22.6%;
+    height: 3.3px; 
+    background: black;
+}
+
+.block_Div_2eme_Sct{
+    width: 20%; 
+    height: 75px;
+    background:green;
+}
+
+.Block_Secretaire{
+    text-align: center; 
+    text-transform: uppercase; 
+    margin: 0; 
+    padding: 28.3px 0 ; 
+    width: 100%;
+}
+
+.div_3eme_Section{}
+
+.div_Horizontal_3eme_Sct{
+    width: 80%;
+    height: 3.3px;  
+    margin: 0 auto;
+    background: black;
+}
+
+.container_div_Vertical_3eme_Sct{
+    display: flex;
+}
+
+.div_Vertical_3eme_Sct{
+    width: 0.5%; 
+    height: 50px;; 
+    margin: 0 0 0 10%;
+    background: black;
+}
+
+.div1_Vertical_3eme_Sct{
+    width: 0.5%; 
+    height: 50px;  
+    margin: 0 0 0 42.9%;
+    background: black;
+}
+
+.div2_Vertical_3eme_Sct{
+    width: 0.5%; 
+    height: 50px;  
+    margin: 0 0 0 35.61%;
+    background: black;
+}
+
+.container_div_block_3eme_Sct{
+    display: flex;
+}
+
+.div_block_3eme_Sct{
+    width: 20%; 
+    height: 75px;  
+    margin: 0 0 0 1.6%;
+    background:green;
+}
+
+.Block_Directeur_Info{
+    text-align: center; 
+    text-transform: uppercase; 
+    padding: 19.1px 0;
+}
+
+.div1_block_3eme_Sct{
+    width: 20%; 
+    height: 75px;  
+    margin: 0 0 0 23.4%;
+    background:green;
+}
+
+.Block_Directeur_Fin{
+    text-align: center; 
+    text-transform: uppercase; 
+    padding: 19.1px 0;
+}
+
+.div2_block_3eme_Sct{
+    width: 20%; height: 75px;  
+    margin: 0 0 0 15.6%;
+    background:green;
+}
+
+.Block_DRH{
+    text-align: center; 
+    text-transform: uppercase; 
+    
+    padding: 28.3px 0;
+}
+
+.div_4eme_Section{}
+
+.div_vertical_4eme_Sct{
+    width: 0.5%; 
+    height: 40px;  
+    margin: 0 0 0 12.4%;
+    background: black;
+}
+
+.div_horizontal_4eme_Sct{
+    width: 23.4%;
+    height: 3.3px;  
+    margin: 0 0 0 8.611%;
+    background: black;
+}
+
+.div1_vertical_4eme_Sct{
+    display: flex;
+}
+
+.div2_vertical_4eme_Sct{
+    width: 0.5%; 
+    height: 40px;  
+    margin: 0 0 0 8.7%;
+    background: black;
+}
+
+.div3_vertical_4eme_Sct{
+    width: 0.5%; 
+    height: 40px;  
+    margin: 0 0 0 22.2221%;
+    background: black;
+}
+
+.container_div_cycle_4eme_Sct{
+    display: flex;
+}
+
+.div_cycle_4eme_Sct{
+    width: 16.5%; 
+    height: 60px;  
+    margin: 0 0 0 0.778%; 
+    border-radius: 25%;
+    background:green;
+}
+
+.Service_Reseau{
+    text-align: center; 
+    text-transform: uppercase; 
+    padding: 11.6px 0;
+}
+
+.div1_cycle_4eme_Sct{
+    width: 16.5%; 
+    height: 60px; 
+    margin: 0 0 0 7.77%; 
+    border-radius: 25%;
+    background:green;
+}
+
+.Service_Dev{
+    text-align: center; 
+    text-transform: uppercase; 
+    padding: 11.6px 0;
+}
+
+
+
+@media screen and (max-width: 320px) {
+    p{
+      font-size: 10px;  
+    }
+
+    .pr_Sct_Block_Div{
+        height: 50px;
+    }
+    p.Block_Directeur{
+        padding: 19px 0;
+    }
+    .div_Vertical_2eme_Sct{
+        height: 60px;
+    }
+
+
+    .block_Div_2eme_Sct{
+        height: 50px;
+    }
+    p.Block_Secretaire{
+        padding: 19px 0;
+    }
+    .div_Vertical_3eme_Sct{
+        height: 20px;
+    }
+
+
+    .div_block_3eme_Sct{
+        height: 50px;
+    }
+    p.Block_Directeur_Info{
+        padding: 17px 0;
+        font-size: 7.5px;
+    }
+    .div1_Vertical_3eme_Sct{
+        height: 20px;
+    }
+
+    .div1_block_3eme_Sct{
+        height: 50px;
+    }
+    p.Block_Directeur_Fin{
+        padding: 13px 0;
+    }
+    .div2_Vertical_3eme_Sct{
+        height: 20px;
+    }
+
+    .div2_block_3eme_Sct{
+        height: 50px;
+    }
+    p.Block_DRH{
+        padding: 19px 0;
+    }
+
+
+    p.Service_Reseau{
+        padding: 18px 0;
+    }
+    .div_vertical_4eme_Sct{
+        height: 20px;
+    }
+
+
+    p.Service_Dev{
+        padding: 18px 0;
+    }
+    .div2_vertical_4eme_Sct{
+        height: 20px;
+    }
+    
+    .div3_vertical_4eme_Sct{
+        height: 20px;
+    }
+}
