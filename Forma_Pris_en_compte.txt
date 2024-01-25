@@ -1,4 +1,4 @@
--les formas pris en compte son: forma_min: 320px et plus sauf 
+-les formas pris en compte son: forma_min: 320px
 
 
 
