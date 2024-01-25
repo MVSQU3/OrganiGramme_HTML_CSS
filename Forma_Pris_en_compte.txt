@@ -1,0 +1,6 @@
+-les formas pris en compte son: forma_min: 320px et plus sauf 
+
+
+
+
+-les forma non pris en charge vont de (613px à 321px) et le forma 4k(2560px)
